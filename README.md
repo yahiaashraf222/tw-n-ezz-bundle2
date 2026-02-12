@@ -30,6 +30,12 @@ src/
       types.ts        # Component types (optional)
 ```
 
+## Advanced Documentation
+
+For a full implementation guide on building feature-rich components in this exact repository structure (including `src/`, `vite.config.ts`, and `twilight-bundle.json`), see:
+
+- `docs/feature-rich-components.md`
+
 ## Built-in Plugins
 
 This starter kit includes three Vite plugins that handle the build process:
